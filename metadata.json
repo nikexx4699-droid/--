@@ -1,0 +1,6 @@
+{
+  "name": "PrepPilot - Exam Preparation Platform",
+  "description": "Prepare smart and perform better with mock tests, previous year papers, practice questions, and study material for CUET, CDS, NDA, AFCAT, and General Studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
